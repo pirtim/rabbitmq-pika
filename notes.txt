@@ -1,0 +1,2 @@
+czyli trzeba by zrobic docker-compose, który zawiera rabbitmq i linkuje do innych
+i dopiero potem kontynuować
